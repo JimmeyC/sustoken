@@ -1,5 +1,5 @@
 from ast import Bytes
-import hashlib, binascii, struct, array, os, time, sys, optparse
+import hashlib, binascii, struct, array, os, time, sys, optparse, codecs
 import scrypt
 
 from construct import *
