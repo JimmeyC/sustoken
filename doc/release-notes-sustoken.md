@@ -1,13 +1,13 @@
 Sustoken Core version *0.15.1* is now available from:
 
-  <https://download.sustoken.org/sustoken-0.15.1/>
+  <https://download.g0software.com/sustoken-0.1/>
 
 This is a new minor version release, including various bugfixes and
 performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/sustoken-project/sustoken/issues>
+  <https://github.com/g0software/sustoken/issues>
 
 To receive security and update notifications, please subscribe to:
 
@@ -264,3 +264,4 @@ Thanks to everyone who directly contributed to this release:
 - VKoskiv
 - voidmain
 - xinxi
+- g0software
