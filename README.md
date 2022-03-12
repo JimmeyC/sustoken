@@ -1,9 +1,9 @@
 Sustoken Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/sustoken-project/sustoken.svg?branch=master)](https://travis-ci.org/sustoken-project/sustoken)
+[![Build Status](https://travis-ci.org/g0software/sustoken.svg?branch=master)](https://travis-ci.org/g0software/sustoken)
 
-https://sustoken.org
+https://sustoken.g0software.com
 
 What is Sustoken?
 ----------------
@@ -11,11 +11,11 @@ What is Sustoken?
 Sustoken is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Sustoken uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Sustoken Core is the name of open source
+out collectively by the network. Sustoken is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Sustoken Core software, see [https://sustoken.org](https://sustoken.org).
+the Sustoken software, see [https://sustoken.g0software.com](https://sustoken.g0software.com).
 
 License
 -------
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/sustoken-project/sustoken/tags) are created
+completely stable. [Tags](https://github.com/g0software/sustoken/tags) are created
 regularly to indicate new official, stable release versions of Sustoken Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
