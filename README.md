@@ -1,7 +1,6 @@
 Sustoken Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/g0software/sustoken.svg?branch=master)](https://travis-ci.org/g0software/sustoken)
 
 https://sustoken.g0software.com
 
